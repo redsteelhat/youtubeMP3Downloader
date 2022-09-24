@@ -9,5 +9,5 @@ pip install pytube
 ## Usage
 
 ```python
-import pytube
+from pytube import YouTube
 ```
